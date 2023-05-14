@@ -1,5 +1,5 @@
 # Discord-ChatGPT
-A Discord bot that uses OpenAI's GPT-3.5-turbo model to bring ChatGPT into Discord
+A Discord bot that uses OpenAI's api models to bring ChatGPT into Discord
 
 ## Features
 
