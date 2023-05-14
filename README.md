@@ -24,7 +24,7 @@ An OpenAI API key
 1. Clone the repository:     
 
 ```bash
-git clone https://github.com/Dean1342/Discord-ChatGPT.git
+git clone https://github.com/Dean1342/Discord-ChatGPT-Project.git
 ```
     
 2. Install dependencies (install node.js and npm first):
